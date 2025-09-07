@@ -25,9 +25,9 @@ body{
 
     }
     to{
-        box-shadow: 0px 0px 20px red,
-        0px 0px 30px red,
-        0px 0px 40px red;
+        box-shadow: 0px 0px 20px rgb(78, 19, 115),
+        0px 0px 30px rgb(110, 53, 127),
+        0px 0px 40px rgb(217, 178, 229);
     }
 }
 h1{
@@ -61,8 +61,8 @@ textarea{
 }
 button{
     padding: 15px 30px;
-    background-color: green;
-    width: 500px;
+    background-color: rgb(60, 140, 60);
+    width: 550px;
     color: whitesmoke;
     border: none;
     border-radius: 5px;
@@ -74,21 +74,21 @@ button{
 }
 
 button:hover{
-    background-color: aquamarine;
+    background-color: rgb(98, 218, 178);
 
 }
 
 #result{
     font-size: 20px;
     margin-top: 20px;
-    color: azure;
+    color: rgb(201, 230, 230);
     font-weight: bold;body{
     font-family: sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(to right, #33001b, #ff0084);
+    background: linear-gradient(to right, #33001b, #9e326a);
 }
 
 .container{
